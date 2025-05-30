@@ -1,1 +1,2 @@
-oops concepts
+oops concepts are: 4
+inhertence
