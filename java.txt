@@ -1,2 +1,5 @@
 oops concepts are: 4
 inhertence
+abstraction
+polymorphism
+encapsulation
