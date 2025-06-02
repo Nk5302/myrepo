@@ -1,3 +1,0 @@
-javaScript
-it is scripting language
-it suppots oops
